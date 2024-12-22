@@ -1,3 +1,5 @@
+// web 858914503669-68sagpn0erv4a3rvs1t61bvoa03ke2hu.apps.googleusercontent.com
+//android 
 import { Image, StyleSheet, Platform, View, Text } from 'react-native';
 
 import { HelloWave } from '@/components/HelloWave';
